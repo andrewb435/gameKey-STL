@@ -1,5 +1,5 @@
 # gameKey #
-![gameKey STLs](/docs/gameKey.jpg)
+![gameKey STLs](/docs/gamekey.jpg)
 
 This is an attempt at an easy to print and easy to build adjustable ergonomic game controller. It is based around two custom PCBs, hosting a SparkFun Pro Micro as the main controller (hooked to up to 30 buttons), and a daughterboard containing a joystick and navigation switch for additional controls, including analog.
 
