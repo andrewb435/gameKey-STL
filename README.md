@@ -15,6 +15,7 @@ The palm rest may need support in the center depending on your printers bridging
 Assembly notes
 Heatset inserts should also be in the A side of all parts. All shell assembly inserts/bolts are M2, and all adjustment inserts/bolts are M3.
 
+Insert sizes:
 * M3 x D4.2 x L3
 * M2 x D3 x L2.5
 
