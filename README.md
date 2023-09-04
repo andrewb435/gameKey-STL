@@ -10,6 +10,8 @@ The entire assembly can be mirrored at the part level to create a version intend
 Printing Notes:
 The middle and ring finger assemblies are identical. Index is the same, but with a special MainA part to allow the addon to attach. Pinky is a 100% mirror of the Index, with every involved printed part being mirrored.
 
+All printed parts are unique with the exception of 2 Finger_MainA and Finger_MainB for the Middle and Ring fingers, and the button paddles - 4 of the short button paddles, and 19 of the long paddles.
+
 The palm rest may need support in the center depending on your printers bridging capability. The thumb cluster front and back need supports.
 
 Assembly notes
